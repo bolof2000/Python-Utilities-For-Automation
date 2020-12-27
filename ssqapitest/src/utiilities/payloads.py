@@ -7,14 +7,19 @@ class APIPayloads(object):
     this class returns payload for different API endpoints
     """
 
-    def __init__(self):
-        pass
+    def __init__(self,file):
+        with open(file,'r') as data:
+            self.data = json.load(data)
 
     def customer_payloads(self):
-        pass
+        return self.data
+
 
     def price_payloads(self):
-        pass
+        return self.data
 
-    def products_payloads(self):
-        pass
+    def products_payloads(self,data):
+        return self.data
+
+test = APIPayloads('cusomerAPI.json')
+print(test.customer_payloads())

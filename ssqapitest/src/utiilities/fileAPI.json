@@ -1,0 +1,108 @@
+{
+  "id": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+  "object": "file",
+  "created": 1573005341,
+  "expires_at": null,
+  "filename": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+  "links": {
+    "object": "list",
+    "data": [
+      {
+        "id": "link_1I2TMtBNzLAiPr9VnOzoFUPn",
+        "object": "file_link",
+        "created": 1608952979,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_MRe7mN3hDFwuajjYcAlHdMqu"
+      },
+      {
+        "id": "link_1I2TJRBNzLAiPr9VCpoDZWHB",
+        "object": "file_link",
+        "created": 1608952765,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_BRCICRg7YmfvCLOSwEF9RaAv"
+      },
+      {
+        "id": "link_1I26UJBNzLAiPr9Vy4AgNHSt",
+        "object": "file_link",
+        "created": 1608865027,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_VwHNvxwjhZYqJIYDoRX4dObu"
+      },
+      {
+        "id": "link_1I1kW9BNzLAiPr9Vli4gSHYn",
+        "object": "file_link",
+        "created": 1608780573,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_T331QJVau9IAUfxKshTBeL9z"
+      },
+      {
+        "id": "link_1I1ODDBNzLAiPr9VRr98O1Gx",
+        "object": "file_link",
+        "created": 1608694831,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_bF82dHuvRaJuqEazq7tKRACo"
+      },
+      {
+        "id": "link_1I1OABBNzLAiPr9VGdwuUZUz",
+        "object": "file_link",
+        "created": 1608694643,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_f59PDkKkL0763VWjG11EBUPx"
+      },
+      {
+        "id": "link_1Fbdm0BNzLAiPr9V4LhQp4lz",
+        "object": "file_link",
+        "created": 1573005448,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_Paq3FjyAKZz62gb2AmSpYk0S"
+      },
+      {
+        "id": "link_1FbdkHBNzLAiPr9Vw0LtZkxv",
+        "object": "file_link",
+        "created": 1573005341,
+        "expired": false,
+        "expires_at": null,
+        "file": "file_1FbdkHBNzLAiPr9V2g4tPo9C",
+        "livemode": false,
+        "metadata": {},
+        "url": "https://files.stripe.com/links/fl_test_znr6pilr73Lkf82OevTcwUdz"
+      }
+    ],
+    "has_more": false,
+    "url": "/v1/file_links?file=file_1FbdkHBNzLAiPr9V2g4tPo9C"
+  },
+  "purpose": "dispute_evidence",
+  "size": 9863,
+  "title": null,
+  "type": "png",
+  "url": "https://files.stripe.com/v1/files/file_1FbdkHBNzLAiPr9V2g4tPo9C/contents",
+  "file": "{a file descriptor}"
+}

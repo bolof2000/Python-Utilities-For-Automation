@@ -1,1 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
+build/
+dist/
+ssqaapitest.egg-info/
+ssqapitest/__pycache__/
+ssqapitest/tests/__pycache__/
